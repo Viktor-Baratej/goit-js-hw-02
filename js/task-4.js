@@ -1,7 +1,3 @@
-function getShippingCost(country) {
-
-}
-
 
 function getShippingCost(country) {
     let price;
